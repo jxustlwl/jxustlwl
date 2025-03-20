@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫  lwl1559367324@163.com
+- 📫  1559367324@qq.com
 
 <!---
 jxustlwl/jxustlwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
